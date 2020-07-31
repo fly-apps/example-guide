@@ -24,8 +24,6 @@ READMEs in fly-examples should read like an informative article about the exampl
 
 The repository itself should carry all the example material. If you, for example, have multiple versions of the same file demonstrating different configurations, make sure those versions are available under a meaningful name. 
 
-## How do I get paid?
-
-After your example and Readme are successully completed and have been transferred to us, submit an invoice for $400 and we'll pay you via Stripe or Transferwise. You can find your Example project in our [Guides](https://fly.io/docs/guides/) on our website. 
-
+## Where can I find my completed Example?
+You can find your Example project in our [Guides](https://fly.io/docs/guides/) on our website along with a plethora of other contributions from our awesome community!
 
