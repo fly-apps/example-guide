@@ -1,5 +1,5 @@
 ## Contributing to Fly Examples
-If you're reading this, thank you! That means you're interested in adding helpful tutorials and examples to our community-generated Fly Example guides. :) Below you will find detailed [steps](https://github.com/KittyBot/example-guide/new/patch-1#step-by-step-guide-to-creating-a-fly-example-guide) to contribute, [helpful links](https://github.com/KittyBot/example-guide/new/patch-1#helpful-links), and active [team members](https://github.com/KittyBot/example-guide/new/patch-1#helpful-links) you can reach out to throughout the process.
+If you're reading this, thank you! That means you're interested in adding helpful tutorials and examples to our community-generated Fly Example guides. :) Below you will find detailed [steps](https://github.com/fly-examples/example-guide/new/patch-1#step-by-step-guide-to-creating-a-fly-example-guide) to contribute, [helpful links](https://github.com/fly-examples/example-guide/new/patch-1#helpful-links), and active [team members](https://github.com/fly-examples/example-guide/new/patch-1#helpful-links) you can reach out to throughout the process.
 
 ## Step By Step Guide to Creating A Fly Example Guide
 - Submit a proposal in our Fly org issue tracker [here](https://github.com/superfly/fly/issues).
