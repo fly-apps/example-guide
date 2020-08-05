@@ -8,7 +8,7 @@ A curated collection of example applications with detailed Readmes for Fly.io us
 
 ## Get Started
 
-- Submit Example project proposal in our Issue tracker [here](https://github.com/superfly/fly/issues).
+- Submit Example project proposal in our Writers' Room [here](https://community.fly.io/c/write/writers-room/8).
 - Someone on the Fly team will provide feedback.
 - Once we've approved your proposal, you're ready to create your repo.
 
