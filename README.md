@@ -9,12 +9,14 @@ A curated collection of example applications with detailed Readmes for Fly.io us
 ## Get Started
 
 - Submit Example project proposal in our Writers' Room [here](https://community.fly.io/c/write/writers-room/8).
-- Someone on the Fly team will provide feedback.
+- We'll talk to you about your proposal and provide feedback.
 - Once we've approved your proposal, you're ready to create your repo.
 
 ## Your Repo
 
-Start with your own repository. When the time comes, we'll ask you to transfer it over to us.
+If you are building a new example application, create your own GitHub repository. When the time comes, we'll ask you to transfer it to us.
+
+If you are adding a Continuous Integration example, fork the [`flygreeting`](https://github.com/fly-examples/flygreeting) repository. Once you're ready, submit a pull request.
 
 ### The Readme
 
